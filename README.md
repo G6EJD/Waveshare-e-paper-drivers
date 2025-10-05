@@ -1,4 +1,3 @@
-﻿由于arduino的内存有限，因此无法创建整帧图片数据缓存，因此在使用时最好按照如下的推荐进行使用，如果想使用Arduono UNO可以使用我们的e-paper Shield来操作，这样会更加方便，并且增加了读写了SD卡功能。  
 Due to the limited memory of Arduino, it is not possible to create an entire frame of image data cache. Therefore, it is best to use the following recommendations when using it. If you want to use Arduono UNO, you can use our e-paper Shield to operate, which will be more convenient, and Added the function of reading and writing SD card.  
 Arduino UNO:  
 epd1in02d  
